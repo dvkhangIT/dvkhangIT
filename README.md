@@ -14,6 +14,8 @@
 ### My project
 The band: https://dvkhangit.github.io/The_band/
 
+Shopee: https://dvkhangit.github.io/Shopee/
+
 ### Where to find me
 
 <div >
