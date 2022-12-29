@@ -20,13 +20,13 @@ Shopee: https://dvkhangit.github.io/Shopee/
 
 <div >
 
-  <a href="https://www.facebook.com/dvkhang3002" target="blank">
+  <a href="https://www.facebook.com/dvkhang3002" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="https://www.facebook.com/dvkhang3002" />
   </a>
-  <a href="https://www.youtube.com/channel/UCE8VN4o0s6lBHN3QGMAVgXQ" target="blank">
+  <a href="https://www.youtube.com/channel/UCE8VN4o0s6lBHN3QGMAVgXQ" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="https://www.youtube.com/channel/UCE8VN4o0s6lBHN3QGMAVgXQ" />
   </a>
-  <a href="mailto:dvkhang0322@gmail.com" target="top">
+  <a href="mailto:dvkhang0322@gmail.com" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dvkhang0322@gmail.com" />
  
 </div>
